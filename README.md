@@ -2,7 +2,7 @@ This is the structure of the project:
 
 ```plaintext
 /
-
+├── demo                    # Папка для файлів цієї інструкції
 ├── dist                    # Результуючий код
 ├── node_modules            # Node.js залежності для проекту
 ├── public                  # Файли для публічного доступу та використання
@@ -13,6 +13,7 @@ This is the structure of the project:
 │   ├── scss                # Стилі SCSS для вашого проекту
 ├── .gitignore              # Перелік файлів та папок, які ігнорує Git
 ├── index.html              # Файл HTML для вашого проекту
+├── LICENSE                 # Файл ліцензії для вашого проекту
 ├── package-lock.json       # Файл з поточними версіями залежностей для вашого проекту
 ├── package.json            # Визначає метадані вашого проекту і його залежності
 ├── postcss.config.cjs      # Конфігурація для PostCSS
